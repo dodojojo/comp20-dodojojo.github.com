@@ -6,4 +6,4 @@
 used article
 content length? Addd a on of text (3 para's) inside article, works
 removed wrapper element, added breaks, broken.
-added more breaks, changed inner article to p
+added more breaks, changed inner article to p, works
