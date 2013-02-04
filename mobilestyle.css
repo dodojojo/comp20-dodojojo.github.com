@@ -5,7 +5,7 @@ body{
 
 .titlename {
 	font-weight:bold;
-	font-size:40px;
+	font-size:80px;
 	margin-left: 25%;
     margin-right: 25%;
 }
@@ -25,6 +25,7 @@ body{
 #indexdisclaimertext{
 	position:absolute;
 	top:450px;
+	margin-left:15%
 }
 
 
@@ -37,13 +38,15 @@ body{
 #resumetext{
 	margin-left: 0%;
     margin-right: 50%;
+    font-size:40px;
 }
 
 #biotext{
 	margin-left:0%;
 	margin-right:60%;
+	font-size:40px;
 }
 
 h1 {
-	font-size:20px;
+	font-size:40px;
 }
