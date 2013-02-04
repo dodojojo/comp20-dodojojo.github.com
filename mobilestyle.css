@@ -6,25 +6,25 @@ body{
 .titlename {
 	font-weight:bold;
 	font-size:80px;
-	margin-left: 25%;
-    margin-right: 25%;
+	margin-left: 10%;
+    margin-right: 10%;
 }
 
 #indexresumetext{
 	position:absolute;
 	left:29%;
-	top:50px;
+	top:100px;
 }
 
 #indexbiotext{
 	position:absolute;
 	left:43%;
-	top:50px;
+	top:100px;
 }
 
 #indexdisclaimertext{
 	position:absolute;
-	top:450px;
+	top:900px;
 	margin-left:15%
 }
 
@@ -32,12 +32,12 @@ body{
 #faceimage{
 	position:absolute;
 	left:26%;
-	top:80px;
+	top:160px;
 }
 
 #resumetext{
-	margin-left: 0%;
-    margin-right: 50%;
+	margin-left: 5%;
+    margin-right: 5%;
     font-size:40px;
 }
 
