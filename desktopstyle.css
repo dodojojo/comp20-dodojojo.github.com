@@ -1,0 +1,30 @@
+body{
+	background-color:pink;
+	font-family:century gothic;
+}
+
+.titlename {
+	font-weight:bold;
+	font-size:40px;
+	margin-left: 25%;
+    margin-right: 25%;
+}
+
+#faceimage{
+	position:relative;
+	left:26%;
+}
+
+#resumetext{
+	margin-left: 0%;
+    margin-right: 50%;
+}
+
+#biotext{
+	margin-left:0%;
+	margin-right:60%;
+}
+
+h1 {
+	font-size:20px;
+}
