@@ -6,21 +6,21 @@ body{
 .titlename {
 	font-weight:bold;
 	font-size:80px;
-	margin-left: 10%;
+	margin-left: 20%;
     margin-right: 10%;
 }
 
 #indexresumetext{
 	position:absolute;
 	left:29%;
-	top:100px;
+	top:90px;
 	font-size:40px;
 }
 
 #indexbiotext{
 	position:absolute;
 	left:43%;
-	top:100px;
+	top:90px;
 	font-size:40px;
 }
 
