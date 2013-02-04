@@ -14,18 +14,21 @@ body{
 	position:absolute;
 	left:29%;
 	top:100px;
+	font-size:40px;
 }
 
 #indexbiotext{
 	position:absolute;
 	left:43%;
 	top:100px;
+	font-size:40px;
 }
 
 #indexdisclaimertext{
 	position:absolute;
-	top:900px;
+	top:550px;
 	margin-left:15%
+	font-size:40px;
 }
 
 
@@ -42,8 +45,8 @@ body{
 }
 
 #biotext{
-	margin-left:0%;
-	margin-right:60%;
+	margin-left:10%;
+	margin-right:10%;
 	font-size:40px;
 }
 
