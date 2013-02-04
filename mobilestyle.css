@@ -13,7 +13,7 @@ body{
 #faceimage{
 	position:absolute;
 	left:5px;
-	top:60px
+	top:70px
 }
 
 #resumetext{
@@ -32,18 +32,18 @@ h1 {
 
 #indexresumetext{
 	position:absolute;
-	left:26%;
-	top:30px;
+	left:20%;
+	top:40px;
 }
 
 #indexbiotext{
 	position:absolute;
-	left:46%;
-	top:30px;
+	left:55%;
+	top:40px;
 }
 
 #indexdisclaimertext{
 	position:absolute;
-	top:400px;
+	top:420px;
 	margin-left:0%
 }
