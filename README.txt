@@ -1,55 +1,11 @@
-body{
-	background-color:pink;
-	font-family:century gothic;
-}
+Assignment1 : Personal webpage
 
-.titlename {
-	font-weight:bold;
-	font-size:80px;
-	margin-left: 15%;
-    margin-right: 10%;
-}
+A webpage was created with an index page with my name and image, as well as links to a 
+version of my resume and a (very) short biography of myself. The content was styled
+with css, and two separate files were used. One for devices with a low screen width 
+(handhelds) and the other for larger widths (desktops). Both stylesheets aimed to make
+the content readable given the device dimensions. All html and css files passed validation.
 
-#indexresumetext{
-	position:absolute;
-	left:26%;
-	top:90px;
-	font-size:40px;
-}
+I didnt work with anyone on this assignement.
 
-#indexbiotext{
-	position:absolute;
-	left:46%;
-	top:90px;
-	font-size:40px;
-}
-
-#indexdisclaimertext{
-	position:absolute;
-	top:550px;
-	margin-left:15%
-	font-size:40px;
-}
-
-
-#faceimage{
-	position:absolute;
-	left:26%;
-	top:160px;
-}
-
-#resumetext{
-	margin-left: 5%;
-    margin-right: 5%;
-    font-size:40px;
-}
-
-#biotext{
-	margin-left:10%;
-	margin-right:10%;
-	font-size:40px;
-}
-
-h1 {
-	font-size:40px;
-}
+This took me roughly 4hrs.
