@@ -1,0 +1,55 @@
+body{
+	background-color:pink;
+	font-family:century gothic;
+}
+
+.titlename {
+	font-weight:bold;
+	font-size:80px;
+	margin-left: 15%;
+    margin-right: 10%;
+}
+
+#indexresumetext{
+	position:absolute;
+	left:26%;
+	top:90px;
+	font-size:40px;
+}
+
+#indexbiotext{
+	position:absolute;
+	left:46%;
+	top:90px;
+	font-size:40px;
+}
+
+#indexdisclaimertext{
+	position:absolute;
+	top:550px;
+	margin-left:15%
+	font-size:40px;
+}
+
+
+#faceimage{
+	position:absolute;
+	left:26%;
+	top:160px;
+}
+
+#resumetext{
+	margin-left: 5%;
+    margin-right: 5%;
+    font-size:40px;
+}
+
+#biotext{
+	margin-left:10%;
+	margin-right:10%;
+	font-size:40px;
+}
+
+h1 {
+	font-size:40px;
+}
